@@ -25,7 +25,7 @@ df = data.toPandas()
 
 # COMMAND ----------
 
-df["BloodStatus"].unique()
+df["EyeColour"].unique()
 
 # COMMAND ----------
 
